@@ -105,13 +105,13 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               Shop.co © Made by 
               <Link
-                href="https://github.com/Nimrahjawaid03"
+                href="https://github.com/FasihaRafi12"
                 className="text-black font-medium"
               >
-                 Nimrah M.Jawaid
+                 Fsiha Rafi
               </Link>
               {", "}
-              Designed by NMJ
+              Designed by F.R
             </p>
             <div className="flex items-center">
               {paymentBadgesData.map((badge, _, arr) => (
